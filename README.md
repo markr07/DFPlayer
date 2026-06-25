@@ -3,6 +3,7 @@ The DFPlayers’ equipped with the TD5580, JC AB24CR9F35.1-74 and MH2024K-24SS d
 
 Issues corrected by the following
 
+
 1-Eliminating the reference to the number of tracks allocated in HAL statement
 “HAL(DFPLAYER, 1000, 40, Serial2) to HAL(DFPLAYER, Serial2)
 --Fast Format SD (always do whenever re-copying mp3 files)
