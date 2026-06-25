@@ -2,6 +2,7 @@
 The DFPlayers’ equipped with the TD5580, JC AB24CR9F35.1-74 and MH2024K-24SS decoders have been tested and function under DCC-EX 5.60.  Testing performed on Elegoo Mega Serial 2 and 3 with 9V PS on Mega and 5V Dual DFPlayer as shown in the original video and documentation
 
 Issues corrected by the following
+
 1-Eliminating the reference to the number of tracks allocated in HAL statement
 “HAL(DFPLAYER, 1000, 40, Serial2) to HAL(DFPLAYER, Serial2)
 --Fast Format SD (always do whenever re-copying mp3 files)
